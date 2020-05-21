@@ -19,8 +19,8 @@ Once collection is created database will be automatically created
 Find employee with firstname as Kate
 ## Stop the database
     docker-compose stop
-## Stop the database
-    docker-compose stop
+## Start the database
+    docker-compose start
 ## Delete database and its data volume permanently
     docker-compose down -v
 # References
