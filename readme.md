@@ -23,3 +23,9 @@ We’re using the database thepolyglotdeveloper, but it doesn’t exist until we
 With two documents created in a new people collection in our thepolyglotdeveloper database, we can query for data using something like the following:
     
     db.people.find({ firstname: "Nic" })
+
+# References
+    https://www.thepolyglotdeveloper.com/2019/01/getting-started-mongodb-docker-container-deployment/
+    https://docs.mongodb.com/manual/tutorial/getting-started/
+    #Spring Boot: Caching
+    https://www.youtube.com/watch?v=6uWU3gDhZk4
