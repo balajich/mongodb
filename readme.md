@@ -23,6 +23,8 @@ Find employee with firstname as Kate
     docker-compose start
 ## Delete database and its data volume permanently
     docker-compose down -v
+# Video
+- https://youtu.be/sNsWBswW2uk
 # References
 - https://www.thepolyglotdeveloper.com/2019/01/getting-started-mongodb-docker-container-deployment/
 - https://docs.mongodb.com/manual/tutorial/getting-started/
