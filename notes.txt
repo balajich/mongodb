@@ -1,0 +1,8 @@
+Run mongodb in a docker container
+we are going to use mongoclient and mongo compass an ui to acess
+create a database called employeedb
+create a collection(tables) called employee
+insert data into table or documents
+find a record or a document
+stop the database
+delete the database
